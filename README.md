@@ -3,9 +3,10 @@
 Olá! 👋 Seja bem-vindo ao meu perfil do GitHub! Meu nome é Mikael Ferreira e estou muito feliz em recebê-lo aqui. Este espaço é onde compartilho meus projetos, aprendizados e contribuições para a comunidade de desenvolvimento de software.
 <div style="display: inline_block"><br>
   <img align="center" alt="Mikael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mikael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+   <img align="center" alt="Mikael-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="center" alt="Mikael-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Mikael-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+   <img align="center" alt="Mikael-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 </div>
 
 ##
