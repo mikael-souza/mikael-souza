@@ -9,7 +9,7 @@ I'm passionate about technology, I'm always present at events and workshops, con
  ## My Skills
 
  **Applications**
- 
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=databricks&logoColor=FF4B72)
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
