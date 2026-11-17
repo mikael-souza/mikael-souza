@@ -9,15 +9,14 @@ I'm passionate about technology, I'm always present at events and workshops, con
  ## My Skills
 
  **Applications**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 
 **Developer Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/cdn-icons-png.flaticon.com/512/5968/5968875.png)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
