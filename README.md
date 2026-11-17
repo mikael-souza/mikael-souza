@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 
-Hello! Welcome to my GitHub profile! My name is Mikael, I'm 24 years old and I'm very happy to welcome you here. This space is where I share my projects, learnings and contributions to the software development community.
+Hello! Welcome to my GitHub profile! My name is Mikael, I'm 26 years old and I'm very happy to welcome you here. This space is where I share my projects, learnings and contributions to the software development community.
 
 I'm passionate about technology, I'm always present at events and workshops, connecting with people in the field and learning new concepts. Send me an email!  [![Gmail](https://img.shields.io/badge/-Gmail-333?style=flat&logo=Gmail&logoColor=Red)](mailto:fmikael931@gmail.com)
 
