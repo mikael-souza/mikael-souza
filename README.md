@@ -16,7 +16,7 @@ I'm passionate about technology, I'm always present at events and workshops, con
 
 **Developer Tools**
 
-![Jira](https://img.shields.io/badge/cdn-icons-png.flaticon.com/512/5968/5968875.png)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
